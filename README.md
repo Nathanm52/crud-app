@@ -8,5 +8,6 @@ npm install
 npm start
 
 # Start Vue DevServer: http://localhost:8080
-cd frontend
+cd frontend;
+npm install;
 npm run serve
